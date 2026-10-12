@@ -1,8 +1,20 @@
-# Sarosa
+<p align="center">
+  <img src="assets/logo.png" alt="Sarosa" width="128" height="128" />
+</p>
 
-A free launcher for macOS. Open apps, search your clipboard and talk to AI in a keystroke, run every coding agent in one window, and keep a team of Bots working for you.
+<h1 align="center">Sarosa</h1>
 
-**Website:** [sarosa.nakel.app](https://sarosa.nakel.app)
+<p align="center">
+  A free launcher for macOS. Open apps, search your clipboard and talk to AI in a keystroke, run every coding agent in one window, and keep a team of Bots working for you.
+</p>
+
+<p align="center">
+  <a href="https://github.com/nakel-ola/sarosa-releases/releases/latest/download/Sarosa.dmg"><strong>Download for Mac</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://sarosa.nakel.app">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://sarosa.nakel.app/features/">Features</a>
+</p>
 
 ## Download
 
